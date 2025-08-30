@@ -1,1 +1,3 @@
 *.pyc
+data/bot.db
+data/config.json
